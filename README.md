@@ -10,3 +10,7 @@ Já no caso de N = 4, teríamos 4! = 24, portanto a resposta seria 0.
 ## Input
 
 1 ≤ n ≤ 10<sup>9</sup>
+
+## Output
+A saída deve ser seguida de uma quebra de linha.
+
